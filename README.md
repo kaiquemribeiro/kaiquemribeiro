@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Kaique!</h1>
 <p> 📖 Estudante de Sistemas de Informação na UTFPR!</p>
-<p> 🚀 Estagiário em Engenharia de Software na Vivo</p>
+<p> 🚀 Desenvolvedor de Software Junior na Vivo</p>
  
 <h2> 🧐 O que estou aprendendo no momento</h2>
 <div style="display: inline-block">
