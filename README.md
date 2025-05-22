@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Kaique!</h1>
 <p> 📖 Estudante de Sistemas de Informação na UTFPR!</p>
-<p> 🚀 Desenvolvedor de Software Junior na Vivo (Telefônica Brasil)</p>
+<p> 🚀 Desenvolvedor de Software Pleno na Vivo (Telefônica Brasil)</p>
  
 <h2> ℹ️ Informações sobre minha conta GitHub</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=kaiquemribeiro&show_icons=true&theme=prussian&locale=pt-br&hide_title=true&count_private=true" />
